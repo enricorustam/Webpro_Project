@@ -1,0 +1,43 @@
+.form1 {
+	padding: 5px 5px 5px 5px;
+	width: 100%;
+}
+.form-control{
+	font-size: 15px;
+}
+.container {
+	margin: 10px auto;
+}
+.con1{
+	background-color: rgba(220, 220, 220, 0.5);
+	border-radius: 5px;
+}
+.btn1 {
+	text-align: center;
+}
+.btn {
+	width: 50%;
+	margin-top: 20px;
+}
+.form-check {
+	margin-top: 10px;
+	font-size: 14px;
+}
+.dropdown p {
+	margin-bottom: 0;
+}
+hr {
+	margin-top: 10px;
+	margin-bottom: 0;
+	
+}
+.cwek {
+	margin-left: 50px;
+}
+.c1{
+	text-align: center;
+	color: rgb(220, 20, 60);
+}
+#hr1 {
+	border-color: rgba(200,200,200,1);
+}

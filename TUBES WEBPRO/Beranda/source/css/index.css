@@ -1,0 +1,73 @@
+#emailnya{
+	padding: 5px 5px 5px 5px;
+	width: 600px;
+	height: 30px;
+	border: none;
+	border-radius: 0;
+	border-bottom: 2px solid red;
+	background-color: rgba(0,0,0,0);
+}
+#katasandi{
+	padding: 5px 5px 5px 5px;
+	width: 600px;
+	height: 30px;
+	border: none;
+	border-radius: 0;
+	border-bottom: 2px solid red;
+	background-color: rgba(0,0,0,0);
+}
+#masuk {
+	width: 600px;
+	height: 45px;
+}
+.row {
+	text-align: center;
+}
+#logonya {
+	margin-top: 50px;
+	max-height: 330px;
+	max-width: 330px;
+	margin-bottom: 0;
+}
+.jarakatasbawah {
+	margin-top: 50px;
+}
+#p1 {
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+#p2 {
+	margin: 0;
+}
+.forgotpass {
+	color: red;
+}
+.register {
+	color: black;
+	font-weight: bold;
+}
+
+.forgotpass:hover {
+	text-decoration-line: none;
+}
+.register:hover {
+	text-decoration-line: none;
+}
+footer {
+	font-size: 14px;
+}
+#p3 {
+	font-size: 25px; 
+	font-family: arial; 
+	margin-bottom: 0;
+	color: rgb(220, 20, 60);
+}
+#p4 {
+	font-size: 25px; 
+	font-family: arial;
+	color : rgb(220, 20, 60); 
+	margin-top: 0;
+}
+.abc{
+	margin-top: 0;
+}

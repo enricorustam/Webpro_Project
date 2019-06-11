@@ -1,0 +1,32 @@
+#emailnya{
+	padding: 5px 5px 5px 5px;
+	width: 600px;
+	height: 30px;
+	border: none;
+	border-radius: 0;
+	border-bottom: 2px solid red;
+	margin-bottom: 25px;
+	background-color: rgba(0,0,0,0);
+}
+#masuk {
+	width: 600px;
+	height: 45px;
+	margin-bottom: 40px;
+}
+.email{
+	margin-top: 50px;
+}
+.row {
+	text-align: center;
+}
+#p1{
+	margin-top: 20px;
+	font-size: 25px;
+	color: rgb(220, 20, 60);
+}
+.container{
+	background-color: rgba(220, 220, 220, 0.5);
+	margin-top: 15%;
+	width: 60%;
+	border-radius: 10px;
+}

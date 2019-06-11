@@ -1,0 +1,22 @@
+.cn1{
+	width: 80%;
+}
+.container{
+	margin-top: 30px;
+}
+#hd1{
+	height: 180px;
+	width: 49.5%;
+}
+#hd2{
+	width: 49.5%; 
+	height: 180px; 
+	float: right;
+}
+#judul1{
+	text-align: center;
+}
+
+#img1{
+	margin: 25px;
+}
